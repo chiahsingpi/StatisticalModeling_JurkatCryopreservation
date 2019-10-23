@@ -1,7 +1,3 @@
-# This code was written by Dr. Ashley Petersen and adjusted by Chia-Hsing Pi
-# This code used (1)quasi-binomial, (2) sucrose as factor, (3) one simple model and one interaction models
-####################################################################################################################################
-
 # import data
 setwd("D:/07_Statistical Analysis/SGI2")
 data_SGI<-read.table('SGI_log.csv',header=F,sep=',') #input data
